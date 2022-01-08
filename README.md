@@ -11,7 +11,8 @@ En el archivo comprimido “cyberbullying_corpus.zip” se encuentra el corpus c
 4) carpeta con imágenes usadas en conversaciones, 
 5) carpeta con imágenes tipo meme utilizadas en las conversaciones, y 
 6) archivo con la transcripción del texto incluido en los archivos tipo meme.
-** El archivo cuenta con contraseña, favor de solicitarla al siguiente correo electrónico aomar@uabc.edu.mx.
+
+** El archivo comprimido cuenta con contraseña, favor de solicitarla al siguiente correo electrónico aomar@uabc.edu.mx.
 
 
 En el directorio “datasets” están los archivos csv usados para entrenamiento y evaluación de los modelos implementados descritos en el artículo, los cuales fueron obtenidos del corpus completo indicado en el punto anterior:
